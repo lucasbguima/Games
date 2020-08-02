@@ -1,5 +1,5 @@
 # Games
-<p style="font-size:130%;"><b>Construct 2 / Unity</b></p>
+<p style="font-size:200%;"><b>Construct 2 / Unity</b></p>
 <br/>
 Lista de Games em Construct 2:
 <br/>
